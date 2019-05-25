@@ -1,2 +1,0 @@
-# Buku-Tamu
-Pendaftaran Tamu
